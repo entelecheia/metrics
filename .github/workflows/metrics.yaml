@@ -47,7 +47,7 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: public
           plugin_habits: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 30
           plugin_habits_facts: yes
@@ -70,8 +70,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_languages_ignored: browsing, shell, writing, reviewing, searching, researching, github, ai, text
-          plugin_topics: yes
-          plugin_topics_limit: 20
-          plugin_topics_mode: labels
-          plugin_topics_sort: activity
-          
+
