@@ -59,5 +59,9 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 1
           plugin_projects: yes
           plugin_projects_limit: 4
