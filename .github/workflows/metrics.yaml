@@ -71,7 +71,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_languages_ignored: browsing, shell, writing, reviewing, searching, researching, github, ai, text
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 20
           plugin_topics_mode: labels
           plugin_topics_sort: activity
           
