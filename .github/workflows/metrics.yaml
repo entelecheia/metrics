@@ -31,6 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          repositories: 200
           config_octicon: yes
           config_timezone: Asia/Seoul
           plugin_achievements: no
