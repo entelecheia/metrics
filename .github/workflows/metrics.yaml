@@ -29,7 +29,8 @@ jobs:
           # Options
           user: entelecheia
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
+          # base: header, activity, community, repositories, metadata
           base_indepth: yes
           repositories: 200
           config_octicon: yes
