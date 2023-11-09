@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1772" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1905" class="">
     <defs>
         <style/>
     </defs>
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 361 repositories
+                            Starred 362 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -157,7 +157,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 125 commits)</small>
+                    <small class="h-details">(computed from last 126 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -173,8 +173,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">9</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             03
                         </div>
                         <div class="entry">
@@ -299,8 +299,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">1</span>
+                                <div class="bar" style="height: 1.3888888888888888px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -315,37 +315,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 34.0815689711262%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
+                                <div class="bar" style="width: 33.911607576493445%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.47279817112708944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4716323016468718%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 0.16040259990306796%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.16000706432955097%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jinja</span>
-                                <div class="bar" style="width: 0.11437094871675707%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.11408892224822288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.09020433184394384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.08998189765552563%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.07329655227358735%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.01951521038456444%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Erlang</span>
-                                <div class="bar" style="width: 0.024078094466685702%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.01801404035498256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2382,6 +2382,135 @@
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">entelecheia/issue32</span>
+                                        in
+                                        <span class="repo">entelecheia/txtgen-webui-container</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 44 commits in
+                                        <span class="repo">entelecheia/text-generation-webui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3d59346</div>
+                                        <div class="message">Implement echo/suffix parameters</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cee099f</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48c9c31</div>
+                                        <div class="message">Document the "preset" option in the API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d59f1ad</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c44087</div>
+                                        <div class="message">Update 12 - OpenAI API.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55dc984</div>
+                                        <div class="message">Update 12 - OpenAI API.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0b999d</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bda1a9</div>
+                                        <div class="message">Mention --api-key</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc04abd</div>
+                                        <div class="message">Update 12 - OpenAI API.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddca694</div>
+                                        <div class="message">Update 12 - OpenAI API.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40e73aa</div>
+                                        <div class="message">Update 12 - OpenAI API.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ec997f</div>
+                                        <div class="message">Update 12 - OpenAI API.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15d4ea1</div>
+                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2afdda</div>
+                                        <div class="message">Add more API examples</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3496044</div>
+                                        <div class="message">Update 12 - OpenAI API.md (#4501)
+
+Fix the typo in argument. It should be `--api-port` instead of `--port`.
+
+Co-authored-by: oobabooga &lt;112222186+oobabooga@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd893ba</div>
+                                        <div class="message">Bump optimum from 1.13.1 to 1.14.0 (#4492)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18739c8</div>
+                                        <div class="message">Update peft requirement from ==0.5.* to ==0.6.* (#4494)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b3f5a</div>
+                                        <div class="message">Add /v1/internal/stop-generation to OpenAI API (#4498)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97c21e5</div>
+                                        <div class="message">Don't strip leading spaces in OpenAI API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a45dc4</div>
+                                        <div class="message">Reorder the parameters in the FastAPI documentation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">langchain-ai/opengpts</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
                                         Deleted
                       branch
                                         <span class="code">dependabot/pip/hyfi-1.34.1</span>
@@ -2460,104 +2589,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">entelecheia/hyperfast-python-template</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">release</span>
-                                        in
-                                        <span class="repo">entelecheia/bis-fetcher</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">entelecheia/issue9</span>
-                                        in
-                                        <span class="repo">entelecheia/bis-fetcher</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">entelecheia/bis-fetcher</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9cfa007</div>
-                                        <div class="message">Merge pull request #10 from entelecheia/entelecheia/issue9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64789f0</div>
-                                        <div class="message">refactor(.github/workflows): modify release.yaml to run semantic-release on release branches for changed paths in 'src/**' and 'pyproject.toml'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f0cb1e</div>
-                                        <div class="message">chore(flake8): add 'E203' to ignore list in pyproject.toml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a612fe</div>
-                                        <div class="message">test(tests): add new notebook file bis.ipynb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5d2aa2</div>
-                                        <div class="message">test(bis_fetcher): add test for BisFetcher</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb261ab</div>
-                                        <div class="message">refactor(bis_fetcher): move _extract_text into BisFetcher as a method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#029db8a</div>
-                                        <div class="message">refactor(bis_fetcher): move utilities into BisFetcher class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a65a85d</div>
-                                        <div class="message">refactor(bis_fetcher): update article fetching and link parsing methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f8d191</div>
-                                        <div class="message">refactor(bis_fetcher): implement next page function in fetch links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe89717</div>
-                                        <div class="message">feat(fetcher): implement _next_page_func for handling, add support for start_urls and page_placeholder
-
-fix(fetcher): ensure num_workers always greater than 1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1aef2c8</div>
-                                        <div class="message">refactor(pyproject.toml): update exclude lists for tools, remove upper limit for black version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e853171</div>
-                                        <div class="message">chore: update poetry lock</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2678,7 +2709,7 @@ fix(fetcher): ensure num_workers always greater than 1</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2023, 03:06:43 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2023, 04:06:00 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
