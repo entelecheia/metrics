@@ -315,42 +315,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 29.235332800844457%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
+                                <div class="bar" style="width: 30.883904141805758%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 2.4039897152501615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.5572593187126835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Erlang</span>
-                                <div class="bar" style="width: 0.8338437135736683%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8870065430643317%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.6026344087538914%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6410561774813706%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.4019820628393323%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.42761097089147%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 0.13637736338979034%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.14507228594932478%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jinja</span>
-                                <div class="bar" style="width: 0.097240371688526%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.10344006260845895%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.07669345104536222%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0815831453545044%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2756,7 +2756,7 @@ Release</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2023, 21:07:50 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2023, 22:06:57 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
