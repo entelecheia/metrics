@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1806" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2106" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -157,7 +157,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 121 commits)</small>
+                    <small class="h-details">(computed from last 122 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -193,8 +193,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -284,8 +284,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">13</span>
-                                <div class="bar" style="height: 18.055555555555554px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">14</span>
+                                <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -315,37 +315,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 25.37010415373588%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 32.484651248672854%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 3.525983707541969%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.5404299189093535%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Rich Text Format</span>
+                                <div class="bar" style="width: 0.916693594300574%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Erlang</span>
-                                <div class="bar" style="width: 1.1540068421382816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.831448398959824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 1.0429522371763298%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7514348582067734%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jinja</span>
-                                <div class="bar" style="width: 0.6266042518430126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6441090030620567%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 0.19349129249140062%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.13940820754281494%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.015270008182268372%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.011001861853544447%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2364,6 +2369,639 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">entelecheia/promptflow</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1b77dc4</div>
+                                        <div class="message">[PromptFlow][ProcessPool] Add try-catch module to avoid REDACTED the error message. (#1083)
+
+# Description
+
+Add try-catch module to avoid REDACTED the error message.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7330495</div>
+                                        <div class="message">[Internal][Executor] Move resolve data and input mapping logic to batch inputs processor (#1095)
+
+# Description
+
+Move resolve data and input mapping logic to batch inputs processor.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01bb286</div>
+                                        <div class="message">[SDK]improve error message when connection has scrubbed secrets &amp; add CI for flow-as-func (#1088)
+
+# Description
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+This PR added sample CI for flow as func and improved error message when
+connection has scrubbed secrets.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae76b8d</div>
+                                        <div class="message">improve verbose time precision (#1108)
+
+# Description
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+
+![image](https://github.com/microsoft/promptflow/assets/47586720/323c0131-8456-4ff3-b317-89fe21a81245)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c4b194</div>
+                                        <div class="message">[SDK/CLI] Update SDK restclient 2023-11-23 (#1101)
+
+# Description
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#283a9bf</div>
+                                        <div class="message">[Executor] Use filetype to detect image type (#1049)
+
+# Description
+
+The imghdr is about to deprecated, so we use filetype to detect image
+type.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Lina Tang &lt;linatang@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c21d91</div>
+                                        <div class="message">[Executor] Add streaming_option_parameter for streaming control of package tools (#1100)
+
+# Description
+
+Add streaming_option_parameter for streaming control of package tools
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [x] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Heyi Tang &lt;heta@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea69841</div>
+                                        <div class="message">[Sample] Update flow as func example for multi-threaded usage (#1103)
+
+# Description
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03d7fff</div>
+                                        <div class="message">Refine Tool_with_Generated_by_Input to make it more real with RAG tool (#1098)
+
+Refine Tool_with_Generated_by_Input to make it more real with RAG tool
+
+---------
+
+Co-authored-by: Ge Gao &lt;gega@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dad2d71</div>
+                                        <div class="message">[SDK/CLI] Refine flow name and display name (#1105)
+
+# Description
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caf34c6</div>
+                                        <div class="message">[Executor] Allow run async tools in executor (#1099)
+
+# Description
+
+In current implementation, pf assume all the tools are normal
+functions/methods.
+When user provides an async function decorated by @tool, the behavior of
+pf would be strange.
+
+In this PR, we checked the function type of the passed function, then go
+to a different call stack to ensure async function works well.
+
+TODO: Currently if one async tool call another async tool, there would
+be no traces support. We need to adjust the logic to add such support.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Heyi Tang &lt;heta@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce8ee8e</div>
+                                        <div class="message">[examples] Use production workspace to test examples in PR (#1093)
+
+# Description
+
+Use production (East US) workspace to test examples in PR and manually
+triggered, and use canary workspace in daily schedule runs to detect
+service change.
+
+
+![image](https://github.com/microsoft/promptflow/assets/38847871/778ba65e-d835-4249-a4b6-f87d995bdafb)
+
+Note that this change does not include workflow for chat with PDF Azure.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dd6832</div>
+                                        <div class="message">[promptflow] Update README for Python package (#1104)
+
+# Description
+
+Update Prompt flow to prompt flow, which will show in PyPI page.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db255ce</div>
+                                        <div class="message">[Executor] Support including image in evaluation flow (#1036)
+
+# Description
+
+Support including image in evaluation flow.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Lina Tang &lt;linatang@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1e70e9</div>
+                                        <div class="message">[promptflow][security] Allow PyArrow 14+ (#1102)
+
+# Description
+
+This PR targets to fix
+https://github.com/microsoft/promptflow/security/dependabot/12.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86aed8f</div>
+                                        <div class="message">New tutorial on prompt tunning and evaluation (#524)
+
+# Description
+
+Add a new tutorial on prompt tunning and evaluation, belong with a chat flow and an eval flow. Make small modifies in promptflow/Readme.md file, lowercase 'Prompt Flow' to 'prompt flow' and delete the old version logo.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes]**
+- [x] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: ChenJieting &lt;chenjieting1208@163.com&gt;
+Co-authored-by: Philip Gao &lt;yigao@microsoft.com&gt;
+Co-authored-by: Jieting Chen &lt;chenjieting@microsoft.com&gt;
+Co-authored-by: ChenJieting &lt;40321821+ChenJieting@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3479c16</div>
+                                        <div class="message">Prepare MSI installer using Pyinstaller and WIX Toolset (#1007)
+
+# Description
+msi installer
+
+![image](https://github.com/microsoft/promptflow/assets/26239730/013ac830-0518-497e-b61d-5d90550c80d0)
+
+
+directory structure after installing
+
+![image](https://github.com/microsoft/promptflow/assets/26239730/9c4299be-0d53-4a93-b387-6e9d7f5ec561)
+
+app in "Programs and Features" / "services"
+
+![image](https://github.com/microsoft/promptflow/assets/26239730/c2886dbe-517f-4108-bde6-32259cbb41ed)
+
+
+
+![image](https://github.com/microsoft/promptflow/assets/26239730/29a2dd9f-d21f-470a-acff-eda40d020781)
+
+pf command in CLI
+
+![image](https://github.com/microsoft/promptflow/assets/26239730/bf3c64eb-ab96-4b0c-b102-6bb18b27fddc)
+
+
+system path environment
+
+![image](https://github.com/microsoft/promptflow/assets/26239730/eafb25b7-d72b-4e4f-9346-6bd6c5a5a2e2)
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Ying Chen &lt;2601502859@qq.com&gt;
+Co-authored-by: Clement Wang &lt;47586720+wangchao1230@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a29b13</div>
+                                        <div class="message">[SDK/CLI] Add pfazure flow list (#1053)
+
+# Description
+
+Add `pfazure flow list`:
+
+```bash
+usage: pfazure flow list [-h] [-r MAX_RESULTS] [--include-others] [--type TYPE] [--archived-only] [--include-archived] [-o {table,json}]
+                         [--subscription SUBSCRIPTION] [--resource-group RESOURCE_GROUP] [--workspace-name WORKSPACE_NAME] [--verbose] [-d]
+
+List flows for promptflow.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -r MAX_RESULTS, --max-results MAX_RESULTS
+                        Max number of results to return. Default is 50.
+  --include-others      Get records that are owned by all users.
+  --type TYPE           The type of the flow. Available values are ['standard', 'evaluation', 'chat']. Default to be None, which means all
+                        types included.
+  --archived-only       Only list archived records.
+  --include-archived    List both archived records and active records.
+  -o {table,json}, --output {table,json}
+                        Output format, accepted values are 'json' and 'table'. Default is 'json'.
+  --subscription SUBSCRIPTION
+                        Subscription id, required when pass run id.
+  --resource-group RESOURCE_GROUP, -g RESOURCE_GROUP
+                        Resource group name, required when pass run id.
+  --workspace-name WORKSPACE_NAME, -w WORKSPACE_NAME
+                        Workspace name, required when pass run id.
+  --verbose             Increase logging verbosity. Use --debug for full debug logs.
+  -d, --debug           The flag to turn on debug mode for cli.
+
+Examples:
+
+# List flows:
+pfazure flow list
+# List most recent 10 runs status:
+pfazure flow list --max-results 10
+# List active and archived flows:
+pfazure flow list --include-archived
+# List archived flow only:
+pfazure flow list --archived-only
+# List all flows as table:
+pfazure flow list --output table
+# List flows with specific type:
+pfazure flow list --type standard
+# List flows that are owned by all users:
+pfazure flow list --include-others
+```
+
+Example result:
+
+
+![image](https://github.com/microsoft/promptflow/assets/2572521/7358045d-e475-4a52-a9c9-ec229a034e2b)
+
+
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -2511,23 +3149,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#65 chore(docker): update OPENLLM_VERSION fetching method</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">entelecheia/openllm-container</span></div>
-                                    <div>3 files changed <span class="code">++2 --3</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2645,7 +3266,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 07:06:18 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 08:06:07 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
