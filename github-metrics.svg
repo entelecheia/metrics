@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1790" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1940" class="">
     <defs>
         <style/>
     </defs>
@@ -223,8 +223,8 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">14</span>
-                            <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -243,8 +243,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -284,8 +284,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">31</span>
-                                <div class="bar" style="height: 43.05555555555556px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">32</span>
+                                <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -294,8 +294,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">7</span>
-                                <div class="bar" style="height: 9.722222222222223px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -315,42 +315,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 21.904693260015755%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 22.60118108677893%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 1.7308959955338479%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.714074736409748%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rich Text Format</span>
-                                <div class="bar" style="width: 0.6245798239486917%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6185100086106041%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Erlang</span>
-                                <div class="bar" style="width: 0.5664988801857752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5609935092786235%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.5119824708776224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4841664163081078%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jinja</span>
-                                <div class="bar" style="width: 0.3711309402901164%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.382837709903752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 0.04749217964729456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.04703063934546431%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.007496006279870995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.00742315830728631%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2374,6 +2374,325 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">entelecheia/promptflow</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f873c4e</div>
+                                        <div class="message">[Tools] add a separate tool to support openai with image input (#1059)
+
+# Description
+
+Add a separate tool to support OpenAI with image inputs.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Meng Lan &lt;mengla@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d29a08c</div>
+                                        <div class="message">[Doc] Add cloud doc manage flows (#1113)
+
+# Description
+
+Please add an informative description that covers that changes made by
+the pull request and link all relevant issues.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7aa84b9</div>
+                                        <div class="message">Change name for tests of run_records (#1119)
+
+# Description
+
+Change file name from test_azureml_run_storage_v2.py" to
+"test_run_records.py"
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+Co-authored-by: Min Shi &lt;minshi@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03c7abb</div>
+                                        <div class="message">[PromptFlow][Process-Pool] Add PromptflowException (#1121)
+
+# Description
+
+Add PromptflowException in try-catch to avoid UserError change to
+SystemError.
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c0d0fa</div>
+                                        <div class="message">[Bugfix] Add variant_id back for legacy runtime contract (#1117)
+
+# Description
+
+In the previous PR, we forgot to set variant_id when moving the codes.
+It is used in legacy contract to indicate the variants.
+Added it back in this PR.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [x] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Heyi Tang &lt;heta@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02fca4c</div>
+                                        <div class="message">[promptflow][fundamental] Add pfazure unit test workflow with pull_request (#989)
+
+# Description
+
+This PR adds a workflow that uses `pull_request` and run unit tests of
+pfazure.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d5b4d0</div>
+                                        <div class="message">[fundamental][BugFix] Add missing about for contribution request (#1118)
+
+# Description
+
+Fix issue template by adding missing about section.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9439a7d</div>
+                                        <div class="message">[fundamental] Add issue template for contribution (#1114)
+
+# Description
+
+Add an issue template for contribution.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d2b91a</div>
+                                        <div class="message">Compatible with openai versions greater than 1.0.0 (#1087)
+
+# Description
+
+Compatible with openai versions greater than 1.0.0.
+
+# All Promptflow Contribution checklist:
+- [x] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [x] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [x] Title of the pull request is clear and informative.
+- [x] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [x] Pull request includes test coverage for the included changes.
+
+---------
+
+Co-authored-by: Lina Tang &lt;linatang@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#587af12</div>
+                                        <div class="message">improve pf version command  (#1116)
+
+# Description
+
+Add more info: python executable and python platform 
+
+
+![image](https://github.com/microsoft/promptflow/assets/47586720/e332c42d-9efa-40a7-982d-70990f1bc0a9)
+
+# All Promptflow Contribution checklist:
+- [ ] **The pull request does not introduce [breaking changes].**
+- [ ] **CHANGELOG is updated for new features, bug fixes or other
+significant changes.**
+- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
+- [ ] **Create an issue and link to the pull request to get dedicated
+review from promptflow team. Learn more: [suggested
+workflow](../CONTRIBUTING.md#suggested-workflow).**
+
+## General Guidelines and Best Practices
+- [ ] Title of the pull request is clear and informative.
+- [ ] There are a small number of commits, each of which have an
+informative message. This means that previously merged commits do not
+appear in the history of the PR. For more information on cleaning up the
+commits in your PR, [see this
+page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
+
+### Testing Guidelines
+- [ ] Pull request includes test coverage for the included changes.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2501,26 +2820,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chu-aie/deepnlp-2023</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">entelecheia/issue76</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f8891f7</div>
-                                        <div class="message">chore(pyproject.toml): remove version_pattern configuration</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2638,7 +2937,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 17:06:56 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 18:06:10 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
