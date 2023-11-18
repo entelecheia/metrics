@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2256" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1707" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -157,12 +157,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 125 commits)</small>
+                    <small class="h-details">(computed from last 124 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 61.0 characters per line of code written</li>
+                        <li>Has approximately 59.6 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -173,88 +173,88 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">13</span>
-                            <div class="bar" style="height: 34.21052631578947px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             03
                         </div>
                         <div class="entry">
-                            <span class="value">19</span>
+                            <span class="value">18</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             04
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.263157894736842px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             05
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 21.052631578947366px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             06
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 10.526315789473683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             08
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.263157894736842px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             09
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 15.789473684210526px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 18.421052631578945px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 21.052631578947366px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">16</span>
-                            <div class="bar" style="height: 42.10526315789473px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">10</span>
-                            <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">9</span>
-                            <div class="bar" style="height: 23.684210526315788px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 7.894736842105263px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">13</span>
-                            <div class="bar" style="height: 34.21052631578947px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 7.894736842105263px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                     </div>
@@ -264,8 +264,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 12.121212121212121px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -274,8 +274,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">28</span>
-                                <div class="bar" style="height: 42.42424242424242px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">22</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -305,42 +305,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 21.95749706389875%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 16.584827830353106%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 1.473995000426473%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.023111807260502%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Cuda</span>
-                                <div class="bar" style="width: 1.018145871196464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9717295531976093%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Erlang</span>
-                                <div class="bar" style="width: 0.5660059618711439%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Go</span>
-                                <div class="bar" style="width: 0.5232799476860023%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8985893373087322%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.4759349049403047%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5267097464764743%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Go</span>
+                                <div class="bar" style="width: 0.4994241042932723%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rich Text Format</span>
-                                <div class="bar" style="width: 0.4169373128713867%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.39792953073788545%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.2477828881613336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.17764055174106697%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2387,15 +2387,99 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">entelecheia/ollama-container</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f15b015</div>
+                                        <div class="message">Merge pull request #3 from entelecheia/docker
+
+Docker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f304a2a</div>
+                                        <div class="message">refactor(Dockerfile): update ubuntu packages and cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db38cbf</div>
+                                        <div class="message">refactor(Dockerfile.app): cloning repository within container</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#3 Docker</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">entelecheia/ollama-container</span></div>
+                                    <div>1 file changed <span class="code">++20 --3</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#3 Docker</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">entelecheia/ollama-container</span></div>
+                                    <div>1 file changed <span class="code">++20 --3</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">entelecheia/ollama-container</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">entelecheia/issue1</span></div>
+                                    <div>on branch <span class="code">docker</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ee3052c</div>
-                                        <div class="message">feat(docker): add Dockerfile for the app with necessary configurations and scripts</div>
+                                        <div class="sha">#f304a2a</div>
+                                        <div class="message">refactor(Dockerfile): update ubuntu packages and cleanup</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">entelecheia/ollama-container</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docker</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db38cbf</div>
+                                        <div class="message">refactor(Dockerfile.app): cloning repository within container</div>
                                     </div>
                                 </div>
                             </section>
@@ -2409,7 +2493,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">entelecheia/issue1</span>
+                                        <span class="code">docker</span>
                                         in
                                         <span class="repo">entelecheia/ollama-container</span>
                                     </div>
@@ -2420,833 +2504,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#1 Initial implementation of the containerized version of ollma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">entelecheia/ollama-container</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">explosion/sense2vec</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 38 commits in
-                                        <span class="repo">entelecheia/promptflow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d1d5a59</div>
-                                        <div class="message">Create workflow to upload msi to storage account. (#1122)
-
-# Description
-
-[workflow
-link](https://github.com/microsoft/promptflow/actions/workflows/build_msi_installer.yml)
-
-storage account
-
-https://ms.portal.azure.com/#view/Microsoft_Azure_Storage/ContainerMenuBlade/~/overview/storageAccountId/%2Fsubscriptions%2F96aede12-2f73-41cb-b983-6d11a904839b%2FresourceGroups%2Fpromptflow-prod%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fpromptflowartifact/path/msi-installer/etag/%220x8DBE1089FBDDB50%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride~/false/defaultId//publicAccessVal/Container
-
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.
-
----------
-
-Co-authored-by: Ying Chen &lt;2601502859@qq.com&gt;
-Co-authored-by: zhen &lt;henu_rz@163.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23737f7</div>
-                                        <div class="message">[Executor] Avoid tool invoker since it is useless. (#1137)
-
-# Description
-
-Currently we use a complicated "ToolInvoker" logic to handle tool
-invoking logic.
-However, in the current implementation, we actually have only one
-instance, so we actually do not need such complicated logic to handle
-the tool function calling.
-In this PR, we remove all related stuffs and directly invoke the tool
-functions.
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [x] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [x] Title of the pull request is clear and informative.
-- [x] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.
-
----------
-
-Co-authored-by: Heyi Tang &lt;heta@microsoft.com&gt;
-Co-authored-by: Philip Gao &lt;yigao@microsoft.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#010cbb9</div>
-                                        <div class="message">[promptflow][test] Enable replay test for PF Azure flow (#1147)
-
-# Description
-
-This PR targets to enable tests in SDK CLI Azure E2E/Flow:
-
-- `test_create_flow`
-- `test_list_flows`
-- `test_list_flows_invalid_cases`
-
-When upload file, line separator (`\n` and `\r\n`) will at least affect
-MD5, then OS matter; work around using a `.gitattributes` to force LF -
-I don't like it, but it works across OS...
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [x] Title of the pull request is clear and informative.
-- [x] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [x] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e6c41a</div>
-                                        <div class="message">Update doc index.md (#1141)
-
-fix the image missing error
-
-# Description
-
-Please add an informative description that covers that changes made by
-the pull request and link all relevant issues.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36437a0</div>
-                                        <div class="message">[CI] Fix CI errors (#1146)
-
-# Description
-
-Please add an informative description that covers that changes made by
-the pull request and link all relevant issues.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef294fe</div>
-                                        <div class="message">[Example] Add flow integrations folder and readme.md (#1142)
-
-# Description
-
-(https://github.com/microsoft/promptflow/issues/1096)
-
-Integrations folder contains flow examples contributed by various
-contributors. Each flow example should have a README.md file that
-provides a comprehensive introduction to the flow and includes contact
-information for the flow owner.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8d9b95</div>
-                                        <div class="message">Promptflow-Azure-AI-Language tool package contribution level 1 (#1097)
-
-# Description
-
-The Azure AI Language team has developed a python package to expose
-Azure AI Language functionality in the form of Prompt flow tools. This
-PR intends to complete the contribution level 1 guidelines outlined
-[here](https://microsoftapc.sharepoint.com/teams/PromptFlow/SitePages/Tool-contribution-process.aspx?csf=1&amp;web=1&amp;share=EU42V5HdyOFPjAgkXDhwI4YBquttLrMa6zmXBDsPuh-dgw&amp;e=tRgUQf&amp;xsdata=MDV8MDF8fDcxMjZhY2U1YjQwOTQzMDlkZDA0MDhkYmMwMDU3NzQ0fDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzgzMTQ5MDE5MTE0MjgzNTZ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPakUzTnpBMFptSXdMVEUzTURjdE5EQXhOQzA1WW1NeUxXTXdOakZrTnpWbFlqQTFORjlsT1RKaVltSmtOQzAzT0RGa0xUUXhZMkV0WVRGalpDMWxNekV5Tm1ObE5ESTRZelZBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVFk1TlRnNU16TTVNRGszTUE9PXw2YTAyMmZhNWMxOWI0NzY0N2FjMzA4ZGJjMDA1Nzc0MnxmMWMxMzk0MzYzNGY0MWNlOGRmNzIzZGE2MTFkOWJlNg%3D%3D&amp;sdata=bzgyczR6M2pnOEVhUXR2K1ljMDlHaytIZlBaQXFoNnp0RHJVei8yUitBbz0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cchenjieting%40microsoft.com&amp;cid=ca61b82e-91fb-4b5a-9552-437761924360&amp;OR=Teams-HL&amp;CT=1696015473072&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MTQxNzUwNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D).
-See
-[here](https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview)
-for more information on Azure AI Language and refer to the newly added
-documentation file
-`docs/reference/tools-reference/azure_ai_language_tool.md` for tool
-package specifics.
-
-[Corresponding
-issue](https://github.com/microsoft/promptflow/issues/1096).
-
-Example flow question: should the two example flows added here live
-under the `examples/flows/standard/` folder? Or should I create a
-`examples/flows/language/` or `examples/flows/azure-ai-language/`
-folder? The team intends to add at least one more example flow in the
-future. What is best for structure and visibility/future-plans?
-
-Note: the `promptflow-azure-ai-language` package will go live on PyPI
-the day of or before IGNITE (November 15th). Ideally, the PR will be
-approved before then, and will be merged on that date.
-
-# All Promptflow Contribution checklist:
-- [X] **The pull request does not introduce [breaking changes].**
-- [X] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [X] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [X] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [X] Title of the pull request is clear and informative.
-- [X] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [X] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e4d884</div>
-                                        <div class="message">[promptflow][Feature] Display node status in run visualize page (#1143)
-
-# Description
-
-Upgrade the visualize JS version to support displaying node status in
-run visualize page.
-
-
-![image](https://github.com/microsoft/promptflow/assets/38847871/f28ae890-cc20-4364-b432-87c787c01709)
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [x] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [x] Title of the pull request is clear and informative.
-- [x] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [x] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#443950c</div>
-                                        <div class="message">Readme generator could exclude some files (#1140)
-
-# Description
-
-Readme generator could exclude some files
-exclude examples/flows/integrations/**/README.md since this is 3p
-integration folder, pipeline generation is not included
-Fix a nit in jinja generation
-fix flow as a func ipynb description
-fix pipeline.ipynb description
-Regeneration of all pipelines and README.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28aa211</div>
-                                        <div class="message">Update the doc to introduce cloud value (#962)
-
-Update the doc to introduce cloud value
-
-# Description
-
-Please add an informative description that covers that changes made by
-the pull request and link all relevant issues.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c75cc1</div>
-                                        <div class="message">Update screenshots to remove the icon (#1129)
-
-# Description
-
-Please add an informative description that covers that changes made by
-the pull request and link all relevant issues.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6682450</div>
-                                        <div class="message">[SDK] Remove line number from flow as func output (#1133)
-
-# Description
-
-Please add an informative description that covers that changes made by
-the pull request and link all relevant issues.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2499daf</div>
-                                        <div class="message">[Connection] Refine workspace connection to require limited permission (#1135)
-
-# Description
-
-When specifying workspace connection provider and get connection with
-secrets, sdk will call arm, this path does not requires create pf azure
-client, as pf azure client creation requires workspace read permission.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.
-
----------
-
-Signed-off-by: Brynn Yin &lt;biyi@microsoft.com&gt;
-Co-authored-by: Zhengfei Wang &lt;38847871+zhengfeiwang@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf3c777</div>
-                                        <div class="message">[promptflow][Test] Make SDK PFS E2E use pull_request (#1127)
-
-# Description
-
-This PR targets to make workflow `promptflow-sdk-pfs-e2e-test` use
-`pull_request`, which means this workflow will not use any secrets in
-repo. Therefore, also update the run tests to use a flow that does not
-require any connection.
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [x] Title of the pull request is clear and informative.
-- [x] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [x] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7689ae6</div>
-                                        <div class="message">[fundamental] Add workflow to clean runtime disk (#1042)
-
-# Description
-
-Add workflow [Clean runtime
-disk](https://github.com/microsoft/promptflow/actions/workflows/clean-runtime-disk.yml)
-to create runs that will cleanup runtime disk in test/example runtime in
-canary/production (East US) regions.
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [x] Title of the pull request is clear and informative.
-- [x] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4f004c</div>
-                                        <div class="message">[Recording] Release most of unsupported tests. (#1111)
-
-# Description
-
-Streaming output is still not supported.
-Generator type is not supported by pickle library. There is no easy fix
-for this feature.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a770740</div>
-                                        <div class="message">[pfs] Expose PFS (Prompt Flow Service) (#1055)
-
-# Description
-1. export pfs to promptflow cli, pfs [-p PORT]
-2. if not provide port, use random port
-3. only current user can access the service.
-4. only allow request from localhost
-
-Please add an informative description that covers that changes made by
-the pull request and link all relevant issues.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9e8cdb</div>
-                                        <div class="message">Remove ValueError and add logs for gen_dynamic_list, retrieve_tool_unc_result (#1126)
-
-# Description
-1. Remove ValueError of `gen_dynamic_list` and
-`retrieve_tool_func_result` to unblock vectordb wrapper case:
-    1. The func has a required input.
-    2. The func is inside a wrapper.
-    
-Then the signature we get is wrapper's signature, when the required
-input provided, it's not in func signature:
-
-![image](https://github.com/microsoft/promptflow/assets/20365062/aac51fcb-e04b-46ea-874b-60b98d08d149)
-2. Add log of func signature for better trouble shooting.
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [ ] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
----------
-
-Co-authored-by: Yuhang Liu &lt;yuhaliu@microsoft.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#689ab6e</div>
-                                        <div class="message">[Executor] Use an event pool to run async tools to achieve real async execution. (#1112)
-
-# Description
-
-Use an event loop to run async tools to achieve real async execution for
-the flow including all async tools.
-
-# All Promptflow Contribution checklist:
-- [x] **The pull request does not introduce [breaking changes].**
-- [x] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [x] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-- [x] **Create an issue and link to the pull request to get dedicated
-review from promptflow team. Learn more: [suggested
-workflow](../CONTRIBUTING.md#suggested-workflow).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.
-
----------
-
-Co-authored-by: Heyi Tang &lt;heta@microsoft.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef8238c</div>
-                                        <div class="message">Refine Contract unittest (#542)
-
-# Description
-
-Refine unittest for promptflow.contracts.
-
-# All Promptflow Contribution checklist:
-- [ ] **The pull request does not introduce [breaking changes]**
-- [ ] **CHANGELOG is updated for new features, bug fixes or other
-significant changes.**
-- [ ] **I have read the [contribution guidelines](../CONTRIBUTING.md).**
-
-## General Guidelines and Best Practices
-- [ ] Title of the pull request is clear and informative.
-- [ ] There are a small number of commits, each of which have an
-informative message. This means that previously merged commits do not
-appear in the history of the PR. For more information on cleaning up the
-commits in your PR, [see this
-page](https://github.com/Azure/azure-powershell/blob/master/documentation/development-docs/cleaning-up-commits.md).
-
-### Testing Guidelines
-- [ ] Pull request includes test coverage for the included changes.
-
----------
-
-Co-authored-by: Min Shi &lt;minshi@microsoft.com&gt;
-Co-authored-by: Peiwen Gao &lt;111329184+PeiwenGaoMS@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 171 commits in
-                                        <span class="repo">entelecheia/ollama</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f42f3d9</div>
-                                        <div class="message">go fmt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#341fb7e</div>
-                                        <div class="message">go mod tidy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f319616</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec36148</div>
-                                        <div class="message">Merge pull request #960 from jmorganca/mxyng/fix-tautology</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f149693</div>
-                                        <div class="message">Merge pull request #958 from jmorganca/mxyng/append-ld-library-path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fb9288</div>
-                                        <div class="message">notify that the ollama api is available after linux install (#954)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01a03ca</div>
-                                        <div class="message">Merge pull request #956 from jmorganca/mattw/apidocupdate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf6786b</div>
-                                        <div class="message">fix tautology</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#642128b</div>
-                                        <div class="message">append LD_LIBRARY_PATH</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f21bd62</div>
-                                        <div class="message">docs: clarify and clean up API docs
-
-Signed-off-by: Matt Williams &lt;m@technovangelist.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80362fe</div>
-                                        <div class="message">better readme
-
-Signed-off-by: Matt Williams &lt;m@technovangelist.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5757925</div>
-                                        <div class="message">add a gif
-
-Signed-off-by: Matt Williams &lt;m@technovangelist.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4512301</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2236a93</div>
-                                        <div class="message">docs: add examples using bash to compare models
-
-Signed-off-by: Matt Williams &lt;m@technovangelist.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96da079</div>
-                                        <div class="message">doc: OllamaSharp for .NET moved to libraries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95d2426</div>
-                                        <div class="message">doc: categorised community integrations + added web-ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#115fc56</div>
-                                        <div class="message">calculate and verify md5 checksum</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#186f685</div>
-                                        <div class="message">retry PUT</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12efcbb</div>
-                                        <div class="message">comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e09aab</div>
-                                        <div class="message">concurrent uploads</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">ArthurConmy/Automatic-Circuit-Discovery</span>
+                                        Deleted
+                      branch
+                                        <span class="code">entelecheia/issue1</span>
+                                        in
+                                        <span class="repo">entelecheia/ollama-container</span>
                                     </div>
                                 </div>
                             </section>
@@ -3368,7 +2633,7 @@ Signed-off-by: Matt Williams &lt;m@technovangelist.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2023, 06:05:51 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2023, 07:05:56 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
