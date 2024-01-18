@@ -339,28 +339,28 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.9598367411012126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.21675758408225737%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.10561594913857385%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 3.459425793448267%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.029135434245123815%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.2156547263767665%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Makefile</span>
+                                <div class="bar" style="width: 0.6869487239373834%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Ruby</span>
+                                <div class="bar" style="width: 0.0969986361368938%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Erlang</span>
-                                <div class="bar" style="width: 0.016325889878733173%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.014993843873717234%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2695,7 +2695,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2024, 06:05:56 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2024, 07:06:20 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
