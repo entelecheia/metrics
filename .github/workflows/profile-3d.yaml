@@ -4,7 +4,10 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
-  push: { branches: ["main"] }
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/profile-3d.yaml"
 
 permissions:
   contents: write

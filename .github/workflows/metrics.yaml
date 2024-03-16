@@ -2,10 +2,14 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{ cron: "0 * * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/metrics.yaml"
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -66,4 +70,3 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_languages_ignored: browsing, shell, writing, reviewing, searching, researching, github, ai, text
-
