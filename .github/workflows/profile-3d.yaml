@@ -25,8 +25,8 @@ jobs:
           SETTING_JSON: profile-3d.json
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add -A .
           git commit -m "Generate GitHub Profile 3D Contrib"
           git push
