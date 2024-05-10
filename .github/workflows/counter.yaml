@@ -19,4 +19,4 @@ jobs:
           node-version: 14.17.0
       - uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
-          INSIGHTS_TOKEN: ${{ secrets.GHT }}
+          INSIGHTS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
