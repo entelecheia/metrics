@@ -3,8 +3,25 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
+    "nbcpu",
+    "corporate-reputation",
+    "hyfi-ml",
+    "hyfi-fetcher",
     "entelecheia",
     "hyfi",
-    "eKoNLPy"
+    "eKoNLPy",
+    "dotfiles",
+    "lecture",
+    "hyperfast-template",
+    "hyperfast-python-template",
+    "hyfi-template",
+    "entelecheia-lecture-bot",
+    "rompot-schedio",
+    "protypo",
+    "dedomenon",
+    "thematos",
+    "lexikanon",
+    "oikonomika",
+    "koinonikos"
   ]
 }
